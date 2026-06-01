@@ -51,8 +51,6 @@ src/
 └── main.jsx
 ```
 
----
-
 ## Future Improvements
 
 * User authentication
@@ -60,4 +58,14 @@ src/
 * Real-time shipment updates
 * Interactive maps with GPS tracking
 * API integration with logistics providers
+
+## Visualize
+Landing page
+<img width="1512" height="860" alt="Снимок экрана 2026-06-01 в 17 09 30" src="https://github.com/user-attachments/assets/7c27bfd8-36dc-46ae-a9cb-61b079068de1" />
+
+<img width="1512" height="860" alt="Снимок экрана 2026-06-01 в 17 09 41" src="https://github.com/user-attachments/assets/e521a66b-2e79-4d3f-8bdb-37ebcf28dc12" />
+
+Dashboard
+<img width="1512" height="860" alt="Снимок экрана 2026-06-01 в 17 10 09" src="https://github.com/user-attachments/assets/8675e553-9eac-4424-8db9-22a44102fd20" />
+
 
