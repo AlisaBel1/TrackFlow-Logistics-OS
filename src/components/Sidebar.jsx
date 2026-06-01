@@ -11,7 +11,7 @@ export default function Sidebar({ page, setPage }) {
   return (
     <aside style={{
       position: "fixed", left: 0, top: 0, height: "100vh", width: 240,
-      background: "rgba(18,22,21,0.94)",
+      background: "rgba(19,19,19,0.94)",
       backdropFilter: "blur(20px)",
       borderRight: "1px solid var(--outline-dim)",
       display: "flex", flexDirection: "column",

@@ -16,7 +16,7 @@ export default function TopBar({ search, setSearch, setPage, notify }) {
   return (
     <header style={{
       position: "fixed", top: 0, left: 240, right: 0, height: 64,
-      background: "rgba(7,9,8,0.94)",
+      background: "rgba(19,19,19,0.94)",
       backdropFilter: "blur(16px)",
       borderBottom: "1px solid var(--outline-dim)",
       display: "flex", alignItems: "center", justifyContent: "space-between",
